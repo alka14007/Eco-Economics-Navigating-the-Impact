@@ -1,6 +1,5 @@
 # Eco-Economics-Navigating-the-Impact
-(<iframe width="100%" height="500" frameborder="0"
-  src="https://observablehq.com/embed/@work-mode-ws/three?cell=*"></iframe>)
+(https://observablehq.com/embed/@work-mode-ws/three?cell=*)
 # About the Dataset
 
 The timeline being compared in this study is between the Years 2008 to the Year 2022. This data has been collected from The World Bank Databases on the topic of Environment, Social and Governance (ESG) Data-data#). The dataset represented all 193 recognized countries in total but this study is mainly focused on five countries for research:
